@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deep____mind" target="blank"><img src="https://img.shields.io/twitter/follow/deep____mind?logo=twitter&style=for-the-badge" alt="deep____mind" /></a> </p>
 
-- 🔭 I’m currently working on [ِapplication "Ajar"](https://github.com/ion7l/Graduation_Project_Ajar)
+- 🔭 I’m currently working on [ِapplication "Yaqeen"](https://github.com/ion7l/Yaqeen.git)
 
 - 🌱 I’m currently learning **Framework Flutter**
 
