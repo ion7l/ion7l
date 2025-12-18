@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ion7l](https://github.com/ion7l)
 
-- 📫 How to reach me **Deep_Mind@outlook.sa**
+- 📫 How to reach me **N.Alyami@outlook.sa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
